@@ -55,9 +55,6 @@ The game is designed to feel fast, fluid, and minimal.
 ---
 
 ## Project Structure
-
-```
-/
 ├── index.html
 ├── style.css
 ├── game.js
